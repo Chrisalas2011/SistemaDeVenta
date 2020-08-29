@@ -1,0 +1,29 @@
+C:\Users\pc\source\repos\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.FrmCliente.resources
+C:\Users\pc\source\repos\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Properties.Resources.resources
+C:\Users\pc\source\repos\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\SistemaDeVentas\SistemaDeVentas\bin\Debug\SistemaDeVentas.exe.config
+C:\Users\pc\source\repos\SistemaDeVentas\SistemaDeVentas\bin\Debug\SistemaDeVentas.exe
+C:\Users\pc\source\repos\SistemaDeVentas\SistemaDeVentas\bin\Debug\SistemaDeVentas.pdb
+C:\Users\pc\source\repos\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.exe
+C:\Users\pc\source\repos\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.pdb
+C:\Users\pc\Desktop\5 cuatrimestre 2020\ALGORITMOS Y ESTRUCTURAS DE DATOS\Sistema de venta\SistemaDeVentas\bin\Debug\SistemaDeVentas.exe.config
+C:\Users\pc\Desktop\5 cuatrimestre 2020\ALGORITMOS Y ESTRUCTURAS DE DATOS\Sistema de venta\SistemaDeVentas\bin\Debug\SistemaDeVentas.exe
+C:\Users\pc\Desktop\5 cuatrimestre 2020\ALGORITMOS Y ESTRUCTURAS DE DATOS\Sistema de venta\SistemaDeVentas\bin\Debug\SistemaDeVentas.pdb
+C:\Users\pc\Desktop\5 cuatrimestre 2020\ALGORITMOS Y ESTRUCTURAS DE DATOS\Sistema de venta\SistemaDeVentas\obj\Debug\SistemaDeVentas.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\5 cuatrimestre 2020\ALGORITMOS Y ESTRUCTURAS DE DATOS\Sistema de venta\SistemaDeVentas\obj\Debug\SistemaDeVentas.Form1.resources
+C:\Users\pc\Desktop\5 cuatrimestre 2020\ALGORITMOS Y ESTRUCTURAS DE DATOS\Sistema de venta\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.FrmCliente.resources
+C:\Users\pc\Desktop\5 cuatrimestre 2020\ALGORITMOS Y ESTRUCTURAS DE DATOS\Sistema de venta\SistemaDeVentas\obj\Debug\SistemaDeVentas.Properties.Resources.resources
+C:\Users\pc\Desktop\5 cuatrimestre 2020\ALGORITMOS Y ESTRUCTURAS DE DATOS\Sistema de venta\SistemaDeVentas\obj\Debug\SistemaDeVentas.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\5 cuatrimestre 2020\ALGORITMOS Y ESTRUCTURAS DE DATOS\Sistema de venta\SistemaDeVentas\obj\Debug\SistemaDeVentas.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\5 cuatrimestre 2020\ALGORITMOS Y ESTRUCTURAS DE DATOS\Sistema de venta\SistemaDeVentas\obj\Debug\SistemaDeVentas.exe
+C:\Users\pc\Desktop\5 cuatrimestre 2020\ALGORITMOS Y ESTRUCTURAS DE DATOS\Sistema de venta\SistemaDeVentas\obj\Debug\SistemaDeVentas.pdb
+C:\Users\pc\Desktop\5 cuatrimestre 2020\ALGORITMOS Y ESTRUCTURAS DE DATOS\Sistema de venta\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.FrmCategoria.resources
+C:\Users\pc\Desktop\5 cuatrimestre 2020\ALGORITMOS Y ESTRUCTURAS DE DATOS\Sistema de venta\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.FrmProducto.resources
+C:\Users\pc\Desktop\5 cuatrimestre 2020\ALGORITMOS Y ESTRUCTURAS DE DATOS\Sistema de venta\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.FrmVenta.resources
+C:\Users\pc\Desktop\5 cuatrimestre 2020\ALGORITMOS Y ESTRUCTURAS DE DATOS\Sistema de venta\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.FrmDetalleVenta.resources
+C:\Users\pc\Desktop\5 cuatrimestre 2020\ALGORITMOS Y ESTRUCTURAS DE DATOS\Sistema de venta\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.FrmLogin.resources
+C:\Users\pc\Desktop\5 cuatrimestre 2020\ALGORITMOS Y ESTRUCTURAS DE DATOS\Sistema de venta\SistemaDeVentas\obj\Debug\SistemaDeVentas.MDIPrincipal.resources
+C:\Users\pc\Desktop\5 cuatrimestre 2020\ALGORITMOS Y ESTRUCTURAS DE DATOS\Sistema de venta\SistemaDeVentas\obj\Debug\SistemaDeVentas.Reportes.CrystalReport1.resources
+C:\Users\pc\Desktop\5 cuatrimestre 2020\ALGORITMOS Y ESTRUCTURAS DE DATOS\Sistema de venta\SistemaDeVentas\obj\Debug\SistemaDeVentas.Reportes.FrmReporteVentas.resources
